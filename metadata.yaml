@@ -1,0 +1,31 @@
+_repo: The-Life-of-Bret-HarteWith-Some-Account-of-the-California-Pioneers_34940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merwin, Henry Childs
+    alias: Merwin, H. C. (Henry Childs)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '36161'
+    url: http://www.gutenberg.org/2009/agents/36161
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34940'
+  lccn: '67023887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harte, Bret, 1836-1902'
+- !lcc 'PS'
+- !lcsh 'Western stories -- Authorship'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Frontier and pioneer life -- California'
+title: The Life of Bret Harte, with Some Account of the California Pioneers
+url: http://www.gutenberg.org/ebooks/34940
